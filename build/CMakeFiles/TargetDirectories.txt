@@ -1,0 +1,3 @@
+/home/xud/github/tmxparser/build/CMakeFiles/test.dir
+/home/xud/github/tmxparser/build/CMakeFiles/tmxparser.dir
+/home/xud/github/tmxparser/build/CMakeFiles/tmxparser_static.dir

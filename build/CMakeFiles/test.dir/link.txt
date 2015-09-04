@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test.dir/test/test.cpp.o  -o test -rdynamic libtmxparser.so.2.0.1 -ltinyxml2 -lz -Wl,-rpath,/home/xud/github/tmxparser/build 
